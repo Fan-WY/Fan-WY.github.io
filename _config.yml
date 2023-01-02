@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                   : "Hao Gao"
 title_separator          : "-"
-name                     : &name "Junqing Zhange"
+name                     : &name "Hao Gao"
 description              : &description "A passionate wireless security researcher"
 url                      : https://junqing-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
