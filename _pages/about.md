@@ -13,7 +13,7 @@ I am a Ph.D. student from the Department of Electrical and Computer Engineering 
 
 I received my bachelor degree of Electrical & Information Engineering from Huazhong University of Science and Technology (Wuhan, China) in 2014.  
  
-## [News](/news/)
+## News
 * 10 December 2022: Journal, "Evolutionary Neural Architecture Search with Mean Field Game Selection Mechanism", submitted to IEEE Open Journal of Communication Society.
 * 18 October 2022: Patent with Toyota, "systems and methods for communication-efficient model aggregation in federated networks for connected vehicle applications", submitted to United States Patent and Trademark Office. 
 * 22 April 2022: Journal, “[Opinion Evolution in Social Networks: Connecting Mean Field Games to Generative Adversarial Nets](https://ieeexplore.ieee.org/document/9762023){:target="_blank"}'' has been published by IEEE Transactions on Network Science & Engineering. 
