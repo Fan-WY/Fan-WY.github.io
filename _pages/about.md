@@ -11,13 +11,12 @@ toc: true
 
 I am a Ph.D. student from the Department of Electrical and Computer Engineering in University of Houston since 2018. My advisor is [Dr.Zhu Han](http://www2.egr.uh.edu/~zhan2/){:target="_blank"}, who founded the [wireless networking, signal processing and security lab](http://wireless.egr.uh.edu/){:target="_blank"} in 2009. My research interests include mean field game, deep reinforcement learning, federated learning, and generative adversarial networks.  
 
-I received my bachelor degree of Electrical & Information Engineering from the Huazhong University of Science and Technology in 2014.  
+I received my bachelor degree of Electrical & Information Engineering from Huazhong University of Science and Technology (Wuhan, China) in 2014.  
  
 ## [News](/news/)
-_The dataset and code of our paper entitled “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa'' have been made available. Download from: [Dataset](https://ieee-dataport.org/open-access/lorarffidataset){:target="_blank"} and [code at github](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}._
-* 7 November 2022: Our paper, “FewSense, Towards a Scalable and Cross-Domain Wi-Fi Sensing System Using Few-Shot Learning'' has been accepted by IEEE Transactions on Mobile Computing. Congratulations Guolin. The code will be made available soon. Please stay tuned.
-* 23 January 2022: Our paper, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa'' has been accepted by IEEE Transactions on Information Forensics & Security. Congratulations Guanxiong. The dataset and code will be made available soon. Please stay tuned.
-* 18 January 2022: Our paper, “Colluding RF Fingerprint Impersonation Attack Based on Generative Adversarial Network'' has been accepted by IEEE ICC. Congratulations Yuxuan.
+* 18 October 2022: Patent with Toyota, "systems and methods for communication-efficient model aggregation in federated networks for connected vehicle applications", submitted to United States Patent and Trademark Office. 
+* 22 April 2022: Journal, “[Opinion Evolution in Social Networks: Connecting Mean Field Games to Generative Adversarial Nets](https://ieeexplore.ieee.org/document/9762023){:target="_blank"}'' has been published by IEEE Transactions on Network Science & Engineering. 
+[//]:* 18 January 2022: Our paper, “Colluding RF Fingerprint Impersonation Attack Based on Generative Adversarial Network'' has been accepted by IEEE ICC. Congratulations Yuxuan.
 * 3 December 2021: Our paper, “Fast and Secure Key Generation with Channel Obfuscation in Slowly Varying Environments'' has been accepted by IEEE INFOCOM. Congratulations Guyue.
 * 1 December 2021: Our paper, “Radio Frequency Fingerprint Identification for Security in Low-Cost IoT Devices'', has been presented at Asilomar 2021. Congratulations Guanxiong. Please visit [link](https://arxiv.org/abs/2111.14275){:target="_blank"} for the preprint.
 * 16 November 2021: Our paper, “Reconfigurable Intelligent Surface Assisted Secret Key Generation in Quasi-Static Environments'' has been accepted by IEEE Communications Letters. Congratulations Tianyu.
