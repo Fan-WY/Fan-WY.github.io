@@ -9,18 +9,9 @@ redirect_from:
 toc: true
 ---
 
-Junqing Zhang is a Lecturer (Assistant Professor) at the Department of Electrical Engineering and Electronics, the University of Liverpool, UK. His work mainly involves designing innovative and practical physical layer security solutions for future wireless technologies with ultra-low energy requirements but high security standards. He has been investigating wireless security solutions for a number of Internet of Things techniques, including IEEE 802.11a/g/ax, LoRa/LoRaWAN, ZigBee, etc, with a focus on the physical and MAC layers.
+I am a Ph.D. student from the Department of Electrical and Computer Engineering in University of Houston since 2018. My advisor is [Dr.Zhu Han](http://www2.egr.uh.edu/~zhan2/){:target="_blank"}, who founded the [wireless networking, signal processing and security lab](http://wireless.egr.uh.edu/){:target="_blank"} in 2009. My research interests include mean field game, deep reinforcement learning, federated learning, and generative adversarial networks.  
 
-He was a Postdoc Research Fellow at Queen’s University Belfast, UK from Feb. 2016 to Jan. 2018. He received the PhD degree in Electronics and Electrical Engineering from Queen’s University Belfast, UK in Jan. 2016. His detailed education background and work experience can be found in [Education and Work](/edu-work-experience/).
-
-Please find more information from his 
-* [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en){:target="_blank"}
-* [dblp](https://dblp.uni-trier.de/pers/hd/z/Zhang:Junqing){:target="_blank"} publication list
-* [IEEE](https://ieeexplore.ieee.org/author/37085438201){:target="_blank"} publication list
-* [Publons](https://publons.com/researcher/3021376/junqing-zhang/){:target="_blank"} profile
-
-
-[Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application will open soon on the 31 January 2023. If you are interested in wireless security and wireless sensing, please drop me an email with your CV.
+I received my bachelor degree of Electrical & Information Engineering from the Huazhong University of Science and Technology in 2014.  
  
 ## [News](/news/)
 _The dataset and code of our paper entitled “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa'' have been made available. Download from: [Dataset](https://ieee-dataport.org/open-access/lorarffidataset){:target="_blank"} and [code at github](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}._
