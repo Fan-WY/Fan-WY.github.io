@@ -18,7 +18,7 @@ An evolutionary neural architecture search (NAS) method to automatically find de
 
 # Understand everything in 1 minute
 <br />
-<img align="center" width="600" src="{{ site.url }}/images/myimage/graphical abstract.pdf" alt="...">
+<img align="center" width="600" src="{{ site.url }}/images/myimage/graphical_abstract.png" alt="...">
 <br />
 
 # Overview
@@ -26,7 +26,7 @@ The NAS is decoupled into two steps: weight optimization and evolutionary search
 
 # Search Result
 <br />
-<img align="center" width="600" src="{{ site.url }}/images/myimage/Search_architecture.eps" alt="...">
+<img align="center" width="600" src="{{ site.url }}/images/myimage/Search_architecture.png" alt="...">
 <br />
 
 ## Hardware
