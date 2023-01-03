@@ -25,9 +25,9 @@ I received my bachelor degree of Electrical & Information Engineering from Huazh
 * Generative Adversarial Nets
 * Mobile Edge Computing
 
-## Research Demonstration
-We are always keen to apply our knowledge to practical applications. Hence we have created several demonstration videos to present our applied research.
-* [WiFi Key Generation Demonstration using WARP](/demo-keygen-warp/)
+## What am I working on?
+I am alway passionate about applying my knowledge to real-world applications. Hence we have created several demonstration videos to present our applied research.
+* [Neural Architecture Search for Image Classification](/demo-keygen-warp/)
 * [WiFi Key Generation Demonstration using Raspberry Pi](/demo-keygen-rpi/)
 * [Heartbeat Key Generation Demonstration Using PPG Sensors](/demo-keygen-heartbeat-ppg/)
 * [Deep Learning-Powered Radio Frequency Fingerprint Identification for LoRa](/teaching/demo-fyp-2020-rffi-lora/)
