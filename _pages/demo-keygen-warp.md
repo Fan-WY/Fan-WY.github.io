@@ -1,7 +1,7 @@
 ---
 title: "Neural Architecture Search for Image Classification"
 date: 2022-10-12
-permalink: /demo-keygen-warp/
+permalink: /nas/
 author_profile: true
 categories:
   - Research
