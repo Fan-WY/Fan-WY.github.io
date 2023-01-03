@@ -1,5 +1,5 @@
 ---
-title: "Neural Architecture Search with MFG Selection Mechanism"
+title: "Neural Architecture Search for Image Classification"
 date: 2022-10-12
 permalink: /demo-keygen-warp/
 author_profile: true
