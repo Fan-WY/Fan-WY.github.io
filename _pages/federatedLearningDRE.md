@@ -1,7 +1,7 @@
 ---
 title: "WiFi Key Generation Demonstration Using Raspberry Pi @ University of Liverpool"
 date: 2021-12-24
-permalink: /demo-keygen-rpi/
+permalink: /federatedLearningDRE/
 author_profile: true
 categories:
   - Research
@@ -12,7 +12,7 @@ tags:
 ---
 
 
-A WiFi-based key generation demonstration has been developed using Raspberry Pi boards. A full key generation protocol has been implemented by the Python. 
+A client-edge-cloud federated learning (FL) framework for the driving range estimation of battery electrical vehicle (BEV). 
 
 {% include toc %}
 
