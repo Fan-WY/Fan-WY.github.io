@@ -28,7 +28,7 @@ I received my bachelor degree of Electrical & Information Engineering from Huazh
 ## What am I working on?
 I am alway passionate about applying my knowledge to real-world applications. Hence we have created several demonstration videos to present our applied research.
 * [Neural Architecture Search for Image Classification](/nas/)
-* [WiFi Key Generation Demonstration using Raspberry Pi](/demo-keygen-rpi/)
+* [Communication-efficient Federeated Learning for BEV Driving Range Estimation](/federatedLearningDRE/)
 * [Heartbeat Key Generation Demonstration Using PPG Sensors](/demo-keygen-heartbeat-ppg/)
 * [Deep Learning-Powered Radio Frequency Fingerprint Identification for LoRa](/teaching/demo-fyp-2020-rffi-lora/)
 * [LoRaWAN Demonstration using Pycom FiPy](/demo-lorawan-fipy/)
