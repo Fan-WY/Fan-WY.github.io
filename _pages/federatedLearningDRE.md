@@ -1,6 +1,6 @@
 ---
-title: "WiFi Key Generation Demonstration Using Raspberry Pi @ University of Liverpool"
-date: 2021-12-24
+title: "A client-edge-cloud hierarchical federated learning (FL) framework for the driving range estimation of battery electrical vehicle (BEV)"
+date: 2023-01-26
 permalink: /federatedLearningDRE/
 author_profile: true
 categories:
@@ -10,17 +10,13 @@ tags:
   - Key Generation
   - Application
 ---
-
-
-A client-edge-cloud federated learning (FL) framework for the driving range estimation of battery electrical vehicle (BEV). 
-
 {% include toc %}
 
 # Overview
-Our wireless communications are protected by the symmetric encryption, e.g., WiFi is secured by WPA2, which implements AES. However, the secure and efficient provision of keys for the symmetric encryption is very challenging for Internet of Things (IoT). We have been working on key generation from wireless channels and demonstrated this technique is very suitable for IoT.
+FL enables devices to cooperatively train a machine learning (ML) model without sharing their private data. It has two key obstacles, however: a communication bottleneck and data heterogeneity. To overcome the communication challenge, I present a probabilistic device selection strategy that allows fewer devices to participate in training. To address the issue of data heterogeneity, we created a hierarchical FL to customize edge models for the devices.
 
 
-# Key Generation Protocol
+# The hierarchical federated learning framework
 <br />
 <img align="center" width="600" src="{{ site.url }}/images/keygen/keygen_protocol.png" alt="...">
 <br />
@@ -34,22 +30,18 @@ Our wireless communications are protected by the symmetric encryption, e.g., WiF
 *  Randomness test: [NIST randomness test suite](https://github.com/stevenang/randomness_testsuite){:target="_blank"}
 
 # Setup
-
 <br />
 <img align="center" width="600" src="{{ site.url }}/images/keygen/keygen_rpi_setup_photo.png" alt="...">
 <br />
 
 ## Hardware
-* Raspberry Pi 4 Model B + Touchscreen * 2
-* ALFA Network AWUS036NHA *2 
+* NVIDIA GTX 1080Ti
 
 ## Software
-Python is used for the implementation
-* scapy: WiFi 
-* GUI design: Tkinter and matplotlib
+* IDE: PyCharm
+* Programing Language: Python3
+* Machine Learning Framework: PyTorch
+* Cloud plateform: AWS
 
-# Demo Video
+# Prediction Results
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=37JyT22elm8&" target="_blank"><img src="{{ site.url }}/images/keygen/keygen_rpi_demo_screenshot.png" alt="Key Generation Demo" width="800" border="10" /></a>
-
-# Acknowledgement
-We would like to thank Miss Jingyu Hu for her hard work on completing this excellent demo as part of her final year project.
