@@ -33,6 +33,6 @@ The NAS is decoupled into two steps: weight optimization and evolutionary search
 * 2 NVIDIA Tesla P100 GPUs
 
 ## Software
-* Visual Studio Code, SSH Host
+* IDE: Visual Studio Code, SSH Host
 * Programing Language: Python
 * Machine Learning Framework: PyTorch
