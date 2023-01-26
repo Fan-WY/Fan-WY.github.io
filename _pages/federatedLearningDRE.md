@@ -1,5 +1,5 @@
 ---
-title: "A client-edge-cloud hierarchical federated learning (FL) framework for the driving range estimation of battery electrical vehicle (BEV)"
+title: "Hierarchical Federated Learning Framework for Driving Range Estimation of Battery Electric Vehicle"
 date: 2023-01-26
 permalink: /federatedLearningDRE/
 author_profile: true
@@ -13,7 +13,7 @@ tags:
 {% include toc %}
 
 # Overview
-FL enables devices to cooperatively train a machine learning (ML) model without sharing their private data. It has two key obstacles, however: a communication bottleneck and data heterogeneity. To overcome the communication challenge, I present a probabilistic device selection strategy that allows fewer devices to participate in training. To address the issue of data heterogeneity, we created a hierarchical FL to customize edge models for the devices.
+Federated Learning (FL) enables devices to cooperatively train a machine learning (ML) model without sharing their private data. It has two key obstacles, however: a communication bottleneck and data heterogeneity. To overcome the communication challenge, I present a probabilistic device selection strategy that allows fewer devices to participate in training. To address the issue of data heterogeneity, we created a hierarchical FL to customize edge models for the devices.
 
 # The hierarchical federated learning framework
 <br />
