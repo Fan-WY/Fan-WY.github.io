@@ -17,7 +17,7 @@ Federated Learning (FL) enables devices to cooperatively train a machine learnin
 
 # The hierarchical federated learning framework
 <br />
-<img align="center" width="600" src="{{ site.url }}/images/myimage/hierarchical_structure.pdf" alt="...">
+<img align="center" width="600" src="{{ site.url }}/images/myimage/hierarchical_structure.png" alt="...">
 <br />
 
 # Experiment
