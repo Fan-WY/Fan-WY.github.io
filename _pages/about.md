@@ -29,7 +29,7 @@ I am alway passionate about applying Machine Learning and Game Theory to real-wo
 * [AI Privacy: Communication-efficient Federeated Learning for BEV Driving Range Estimation](/federatedLearningDRE/)
 * [AutoML: Neural Architecture Search for Image Classification](/nas/)
 * [Generative AI: Generative Adversarial Nets for High-dimensional Games](/GAN_MFG/)
-* [Autonomous Control: Trajectory Optimization for a large number of Robots](/UAV/)
+* [Autonomous Control: Trajectory Optimization for a Large Number of Autonomous Vechicles](/UAV/)
 
 ## Contact
 **Email**: gaohaook at gmail.com
