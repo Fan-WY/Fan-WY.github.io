@@ -16,13 +16,13 @@ In this work, we use GAN to solve high-dimensional mean field games (MFGs), whic
 # A glimpse of experiment
 ## Convergence of training at different dimensions
 <br />
-<img align="center" width="700" src="{{ site.url }}/images/myimage/GAN_MFG_convergence.png" alt="...">
+<img align="center" width="700" src="{{ site.url }}/images/myimage/GAN_MFG_Convergence.png" alt="...">
 <br />
 
 ## Diffusion of mean field
 Each point represents a player and different color represents different time slots.
 <br />
-<img align="center" width="700" src="{{ site.url }}/images/myimage/GAN_MFG_simulation.png" alt="...">
+<img align="center" width="700" src="{{ site.url }}/images/myimage/GAN_MFG simulation.png" alt="...">
 <br />
  
 ## Code
