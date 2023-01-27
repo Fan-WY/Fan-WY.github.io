@@ -34,9 +34,9 @@ I am alway passionate about applying my knowledge to real-world applications. He
 * [LoRaWAN Demonstration using Pycom FiPy](/demo-lorawan-fipy/)
 
 ## Contact
-Email: gaohaook at gmail.com
-Tel: +1 832-730-9518
-Department of Electrical and Computer Engineering  
+**Email**: gaohaook at gmail.com
+**Phone**: +1 832-730-9518
+**Address**: Department of Electrical and Computer Engineering  
 University of Houston  
 4800 Calhoun Rd,
 Houston, TX 77004
