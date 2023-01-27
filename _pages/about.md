@@ -34,11 +34,17 @@ I am alway passionate about applying my knowledge to real-world applications. He
 * [LoRaWAN Demonstration using Pycom FiPy](/demo-lorawan-fipy/)
 
 ## Contact
-Email: junqing.zhang at liverpool.ac.uk  
-Web: [https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/junqing-zhang/](https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/junqing-zhang/){:target="_blank"}
-Tel: 0151 79 57790  
-Department of Electrical Engineering and Electronics  
-University of Liverpool  
-Brownlow Hill  
-Liverpool L69 3GJ  
-United Kingdom
+Email: gaohaook at gmail.com
+Tel: +1 832-730-9518
+Department of Electrical and Computer Engineering  
+University of Houston  
+4800 Calhoun Rd,
+Houston, TX 77004
+
+## Welcome
+<div >
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+            <span id="busuanzi_container_site_pv">Welcome to my homepage, you are the <span id="busuanzi_value_site_pv"></span>th visitor</span>
+<img align="center" width="200" src="{{ site.url }}/images/myimage/visited.gif" alt="" display:inline>
+</div>
