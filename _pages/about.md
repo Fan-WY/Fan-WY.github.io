@@ -9,7 +9,7 @@ redirect_from:
 toc: true
 ---
 
-I am a Ph.D. student from the Department of Electrical and Computer Engineering in University of Houston since 2018. My advisor is [Dr.Zhu Han](http://www2.egr.uh.edu/~zhan2/){:target="_blank"}, who founded the [wireless networking, signal processing and security lab](http://wireless.egr.uh.edu/){:target="_blank"} in 2009. My research interests include mean field game, deep reinforcement learning, federated learning, and generative adversarial networks.  
+I am a Ph.D. student from the Department of Electrical and Computer Engineering in University of Houston since 2018. My advisor is [Dr.Zhu Han](http://www2.egr.uh.edu/~zhan2/){:target="_blank"}, who founded the [wireless networking, signal processing and security lab](http://wireless.egr.uh.edu/){:target="_blank"} in 2009. My research interests include deep reinforcement learning, federated learning, generative adversarial networks, and mean field game.  
 
 I received my bachelor degree of Electrical & Information Engineering from Huazhong University of Science and Technology (Wuhan, China) in 2014.  
  
@@ -19,17 +19,17 @@ I received my bachelor degree of Electrical & Information Engineering from Huazh
 * 22 April 2022: Journal, “[Opinion Evolution in Social Networks: Connecting Mean Field Games to Generative Adversarial Nets](https://ieeexplore.ieee.org/document/9762023){:target="_blank"}'' has been published by IEEE Transactions on Network Science & Engineering. 
 
 ## Research Area
-* Mean Field Game
 * Federated Learning
 * Reinforcement Learning
 * Generative Adversarial Nets
-* Mobile Edge Computing
+* Mean Field Game
 
-## What am I working on recently?
-I am alway passionate about applying my knowledge to real-world applications. Hence we have created several demonstration videos to present our applied research.
+## Dive deeper into my research?
+I am alway passionate about applying Machine Learning and Game Theory to real-world applications. Hence several blogs are created to introduce my applied research.
 * [AI Privacy: Communication-efficient Federeated Learning for BEV Driving Range Estimation](/federatedLearningDRE/)
 * [AutoML: Neural Architecture Search for Image Classification](/nas/)
 * [Generative AI: Generative Adversarial Nets for High-dimensional Games](/GAN_MFG/)
+* [Autonomous Control: Trajectory Optimization for a large number of Robots](/UAV/)
 
 ## Contact
 **Email**: gaohaook at gmail.com
