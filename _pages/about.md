@@ -25,11 +25,11 @@ I received my bachelor degree of Electrical & Information Engineering from Huazh
 * Generative Adversarial Nets
 * Mobile Edge Computing
 
-## What am I working on?
+## What am I working on recently?
 I am alway passionate about applying my knowledge to real-world applications. Hence we have created several demonstration videos to present our applied research.
-* [Communication-efficient Federeated Learning for BEV Driving Range Estimation](/federatedLearningDRE/)
-* [Neural Architecture Search for Image Classification](/nas/)
-* [Generative Adversarial Nets for High-dimensional Games](/GAN_MFG/)
+* [AI Privacy: Communication-efficient Federeated Learning for BEV Driving Range Estimation](/federatedLearningDRE/)
+* [AutoML: Neural Architecture Search for Image Classification](/nas/)
+* [Generative AI: Generative Adversarial Nets for High-dimensional Games](/GAN_MFG/)
 
 ## Contact
 **Email**: gaohaook at gmail.com
