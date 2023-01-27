@@ -26,7 +26,7 @@ Each point represents a player and different color represents different time slo
 <br />
  
 ## Code
-* [Apac-net](https://github.com/Asrua/apac-net){:target="_blank"}
+* [Apac-net](https://github.com/Asrua/apac-net){:target="_blank"} at Github
 * Programming: Python
 * ML Framework: PyTorch
 
