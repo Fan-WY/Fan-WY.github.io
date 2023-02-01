@@ -1,5 +1,6 @@
 ---
 layout: archive
+date: 2022-12-10
 title: "Generative Adversarial Nets for High-dimensional Mean Field Games"
 permalink: /GAN_MFG/
 author_profile: true
