@@ -9,7 +9,7 @@ My citation profile in [Google Scholar](https://scholar.google.com/citations?use
 
 Please [email me](mailto:gaohaook@gmail.com) if you require a copy of the paper.
 
-[//] <sup>*</sup> denotes corresponding author. [//]
+[//]: <sup>*</sup> denotes corresponding author.
 
 {% include toc %}
 
