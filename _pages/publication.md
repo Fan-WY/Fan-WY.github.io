@@ -35,6 +35,5 @@ Please [email me](mailto:gaohaook@gmail.com) if you require a copy of the paper.
 6. R. A. Banez, **H. Gao**, L. Li, C. Yang, Z. Han and H. V. Poor, "[Belief and Opinion Evolution in Social Networks Based on a Multi-Population Mean Field Game Approach](https://ieeexplore-ieee-org.ezproxy.lib.uh.edu/document/9500884)," ICC 2020 - 2020 IEEE International Conference on Communications (ICC), Dublin, Ireland, 2020, pp. 1-6, doi: 10.1109/ICC40277.2020.9148985.
 
 # Patent
-1.**Gao, H**., et al. Systems and methods for communication-efficient model aggregation in federated networks for
-connected vehicle applications. USPTO serial No. 17/968,175
-2.**Gao, H**., et al. Reduce the data heterogeneity with user-edge association in hierarchical federated learning networks. Submitted to USPTO.
+1. **Gao, H**., et al. Systems and methods for communication-efficient model aggregation in federated networks forconnected vehicle applications. USPTO serial No. 17/968,175.
+2. **Gao, H**., et al. Reduce the data heterogeneity with user-edge association in hierarchical federated learning networks. Submitted to USPTO.
