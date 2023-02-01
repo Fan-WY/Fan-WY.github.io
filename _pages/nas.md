@@ -1,14 +1,8 @@
 ---
 title: "Neural Architecture Search for Image Classification"
-date: 2022-10-12
+date: 2022-01-26
 permalink: /nas/
 author_profile: true
-categories:
-  - Research
-  - Key Generation
-tags:
-  - Key Generation
-  - Application
 ---
 
 
