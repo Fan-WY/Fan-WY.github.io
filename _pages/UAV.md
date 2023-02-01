@@ -1,5 +1,6 @@
 ---
 layout: archive
+date: 2022-10-12
 title: "Trajectory Optimization for a Large Number of Autonomous Vehicles"
 permalink: /UAV/
 author_profile: true
