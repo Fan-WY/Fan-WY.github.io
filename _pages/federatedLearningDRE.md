@@ -3,13 +3,6 @@ title: "Hierarchical Federated Learning Framework for Driving Range Estimation o
 date: 2023-01-26
 permalink: /federatedLearningDRE/
 author_profile: true
-categories:
-  - Research
-  - Key Generation
-tags:
-  - Key Generation
-  - Application
----
 {% include toc %}
 
 # Overview
