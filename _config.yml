@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "CN"
-title                   : "Yufan Wang"
+title                    : "Yufan Wang"
 title_separator          : "-"
 name                     : &name "Yufan Wang"
 description              : &description "A student."
@@ -78,7 +78,7 @@ analytics:
     tracking_id          :
 
 # Google Analytics
-google_analytics: UA-138327029-1
+# google_analytics: UA-138327029-1
 
 # Site Author
 author:
