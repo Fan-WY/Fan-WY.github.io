@@ -9,11 +9,11 @@ main:
       - title: "Key Generation Publication"
         url: /posts/2019/04/blog-post-keygen_liv_pub/
 
-  - title: "People"
-    url: /people/
+  # - title: "People"
+  #  url: /people/
 
-  - title: "Opportunities"
-    url: /opportunities/
+  # - title: "Opportunities"
+  #  url: /opportunities/
 
 
   - title: "Funding & Award"
@@ -25,8 +25,8 @@ main:
 #  - title: "CV"
 #    url: /cv/
 
-  - title: "Teaching"
-    url: /teaching/
+#  - title: "Teaching"
+#    url: /teaching/
 
-  - title: "Blog"
-    url: /archive-year/
+#  - title: "Blog"
+#    url: /archive-year/
